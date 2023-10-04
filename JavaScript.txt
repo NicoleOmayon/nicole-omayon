@@ -1,0 +1,22 @@
+<script>
+
+function add()
+{
+let a,b,c,d,e,f;
+a = 
+document.getElementById( 'paper' ).value;
+b = 
+document.getElementById( 'book' ).value;
+
+a = parseFloat(a);
+b = parseFloat(b);
+
+c = a + b;
+d = a - b;
+e = a * b;
+f = a / b;
+
+document.getElementById('pen').innerHTML =
+"Addition: "+c+'<br>'+"Subtraction: "+d+'<br>'+"Multiplication: "+e+'<br>'+"Division: "+f+'<br>';
+}
+</script>

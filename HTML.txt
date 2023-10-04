@@ -1,0 +1,17 @@
+</head>
+<body>
+<h1>Calculation</h1>
+
+<p>
+Enter 1st no: <input
+type="number" id="paper">
+</p>
+<p>
+Enter 2nd no: <input
+type="number" id="book">
+</p>
+
+<button
+onClick="add()">CALCULATE</button>
+<div id="pen">
+</div>

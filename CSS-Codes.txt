@@ -1,0 +1,42 @@
+<style>
+
+h1{
+color:Black;
+text-align:center;
+}
+
+p{
+color:green;
+font-weight:400;
+}
+
+button{
+margin:12px 80px;
+background-color:blue;
+color:white;
+height:45px;
+}
+
+button:active{
+margin:12px 80px;
+background-color:green;
+color:white;
+height:45px;
+}
+
+#paper{
+color:blue;
+text-align:center;
+border-radius:6px;
+border:2px solid green;
+}
+
+#pen{
+color-blue;
+font-size:18px;
+text-align:center;
+}
+
+}
+
+</style>
